@@ -34,10 +34,6 @@ Balanced Rope: O(p)
 Unbalanced Rope: O(p)
 
 
-TESTING & DEBUGGING STRATEGY: 
-Briefly describe the tests in your StudentTests() function.
-How did you test the "corner cases" of your implementation?
-
 Corner cases: 
 1. Giving an "invalid" index to the index function. This would include giving an index to 
 a rope that is null. There is no index valid for this scenario so don't do anything here.
